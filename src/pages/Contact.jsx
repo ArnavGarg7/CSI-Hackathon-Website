@@ -8,7 +8,7 @@ export default function Contact() {
 
       <div className="space-y-4 text-gray-700">
         <p><strong>Email:</strong> upescsi@university.edu</p>
-        <p><strong>Phone:</strong> +91 98765 43210</p>
+        <p><strong>Phone:</strong> +91 94538 33395</p>
         <p><strong>Venue:</strong> Block B, Main Auditorium, UPES Campus, Dehradun</p>
 
         <div className="pt-4">
