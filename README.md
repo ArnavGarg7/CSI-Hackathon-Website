@@ -7,9 +7,10 @@ A fully responsive and functional event website built for the **UPES CSI Hackath
 
 This website serves as the digital front for UPES's inter-college hackathon event. It provides essential event details, allows participants to register, and connects visitors with organizers via contact information and social media.
 
-## 🌐 Live Demo
+## 🚀 Live Demo
 
-You can deploy this site using [Vercel](https://vercel.com), [Netlify](https://netlify.com), or [GitHub Pages](https://pages.github.com).
+🔗 [View Website](https://csi-hackathon-website.vercel.app)
+
 
 ## 🚀 Features
 
